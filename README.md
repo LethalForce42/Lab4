@@ -18,3 +18,4 @@ list of songs in alphabetical order without repetition. Furthermore, as a song
 is listened to the program tracks and lists the song to the system output which
 is titled as "History".
 
+**You need to run the Lab4.java file which is located in the src folder. Make sure when you clone repository that all the "CSV" files are located in the Lab 3 folder so that the code can read it without throwing a Nullpointer error. No other files are needed except all the present "CSV" files because the program will create the other files listed.**
